@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of my tip calculator:
 
 ![](https://i.imgur.com/1mMmMc1.gif)
 
