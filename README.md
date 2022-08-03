@@ -30,8 +30,6 @@ Here's a walkthrough of my tip calculator:
 
 ![](https://i.imgur.com/1mMmMc1.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 A challenge I encountered while building the app was learning to use Xcode. I experimented with the features and was able to learn and fix any issues I had with the program.
