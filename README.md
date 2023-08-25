@@ -1,8 +1,6 @@
-# Pre-work - Find your tip
+# Find your tip
 
 Find your tip is a tip calculator application for iOS.
-
-Submitted by: Aashi Singh
 
 Time spent: 1 hour spent in total
 
@@ -18,10 +16,6 @@ Functionalities:
 Here's a walkthrough of my tip calculator:
 
 ![](https://i.imgur.com/1mMmMc1.gif)
-
-## Notes
-
-A challenge I encountered while building the app was learning to use Xcode. I experimented with the features and was able to learn and fix any issues I had with the program.
 
 ## License
 
